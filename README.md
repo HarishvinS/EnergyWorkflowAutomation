@@ -1,5 +1,10 @@
 # Emissions Compliance Forecasting Module
 
+### Important Note
+This project is for the Harvard Ventures TECH Summer Program and Rayfield Systems as proof of work. This project does not bear much resemablence to my past work for this reason. 
+
+Check out these if you want to see more advanced work: [LightLink](https://github.com/HarishvinS/LightLink), [Surface Code Analysis](https://github.com/HarishvinS/surface-code-analysis)
+
 ## Overview
 
 This project implements an AI/ML module to forecast emission rates (SO2, NOx, CO2) for power plant operations, ensuring compliance with EPA 40 CFR Part 75. The module predicts emission rates using quarterly CEMS data from EPA CAMPD, helping Rayfield Systems' energy compliance software automate monitoring and prevent regulatory violations.
