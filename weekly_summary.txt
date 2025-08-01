@@ -1,0 +1,20 @@
+Emissions Compliance Forecasting Summary
+Generated: 2025-07-31 18:05:56
+
+MOCK SUMMARY (Project Specs Format):
+Summarize site performance: Avg = 42.9 lbs/mmBtu, Anomalies = Q1, Q2, Peak = 125.2 lbs/mmBtu
+
+MODEL PERFORMANCE:
+- SO2 Rate (lbs/mmBtu): R² = 0.0000, MAE = 0.0000
+- NOx Rate (lbs/mmBtu): R² = 0.4408, MAE = 0.0202
+- CO2 Rate (short tons/mmBtu): R² = 0.4526, MAE = 0.0001
+
+PREDICTION STATISTICS:
+- SO2 Rate (lbs/mmBtu): Avg = 0.0010, Median = 0.0010
+- NOx Rate (lbs/mmBtu): Avg = 0.0429, Median = 0.0437
+- CO2 Rate (short tons/mmBtu): Avg = 0.0591, Median = 0.0591
+
+COMPLIANCE INSIGHTS:
+- High-emission predictions: 6462 (above median rates)
+- Key facilities analyzed: Madison Generating Station, Kearny Generating Station, Bayside Power Station
+- Total predictions generated: 2464
