@@ -1,0 +1,791 @@
+Year,Quarter,Facility Name,NOx Rate (lbs/mmBtu)
+2020,3,Greene County,0.1426
+2020,4,Greene County,0.141
+2020,1,Agua Fria Generating Station,0.1855
+2020,4,Agua Fria Generating Station,0.163
+2021,2,Agua Fria Generating Station,0.1743
+2021,3,Agua Fria Generating Station,0.1776
+2021,4,Agua Fria Generating Station,0.1995
+2020,3,Agua Fria Generating Station,0.2185
+2020,4,Agua Fria Generating Station,0.1688
+2021,3,Agua Fria Generating Station,0.1711
+2021,4,Agua Fria Generating Station,0.1749
+2020,1,Agua Fria Generating Station,0.2257
+2021,1,Agua Fria Generating Station,0.1635
+2021,2,Agua Fria Generating Station,0.2248
+2021,3,Agua Fria Generating Station,0.2291
+2020,1,Lake Catherine,0.2264
+2020,2,Lake Catherine,0.2254
+2020,3,Lake Catherine,0.2102
+2020,4,Lake Catherine,0.1824
+2021,1,Lake Catherine,0.165
+2021,2,Lake Catherine,0.2067
+2021,3,Lake Catherine,0.1947
+2021,4,Lake Catherine,0.165
+2021,1,Long Beach Generating Station,0.1805
+2021,1,Long Beach Generating Station,0.2135
+2020,1,El Centro,0.1553
+2020,1,Curtis H. Stanton Energy Center,0.0038
+2020,3,Curtis H. Stanton Energy Center,0.004
+2021,3,Curtis H. Stanton Energy Center,0.0043
+2021,4,Gulf Clean Energy Center,0.1456
+2020,1,Deerhaven,0.1539
+2020,2,Deerhaven,0.1512
+2020,3,Deerhaven,0.138
+2020,1,Northside,0.1627
+2020,3,Northside,0.1602
+2021,4,Northside,0.1456
+2020,3,Tom G Smith,0.2122
+2020,1,Ponca,0.197
+2020,4,Venice,0.1442
+2020,4,Venice,0.152
+2020,2,IPL - Harding Street Station (EW Stout),0.1431
+2020,3,IPL - Harding Street Station (EW Stout),0.1429
+2020,4,IPL - Harding Street Station (EW Stout),0.1499
+2021,2,IPL - Harding Street Station (EW Stout),0.1445
+2021,3,IPL - Harding Street Station (EW Stout),0.1446
+2021,4,IPL - Harding Street Station (EW Stout),0.1632
+2020,2,IPL - Harding Street Station (EW Stout),0.1473
+2020,4,IPL - Harding Street Station (EW Stout),0.1468
+2021,1,IPL - Harding Street Station (EW Stout),0.1494
+2021,2,IPL - Harding Street Station (EW Stout),0.1475
+2021,3,IPL - Harding Street Station (EW Stout),0.1476
+2021,4,IPL - Harding Street Station (EW Stout),0.1578
+2021,3,IPL - Eagle Valley Generating Station,0.1652
+2021,3,IPL - Eagle Valley Generating Station,0.177
+2021,3,Cimarron River,0.2186
+2021,1,Great Bend Station aka Arthur Mullergren,0.0006
+2020,3,Garden City,0.1979
+2021,1,Garden City,0.2081
+2021,3,E W Brown,0.14
+2020,1,Louisiana 1,0.1575
+2020,4,Louisiana 1,0.1458
+2021,1,Louisiana 1,0.1435
+2021,3,Louisiana 1,0.1388
+2020,3,Teche Power Station,0.2152
+2020,4,Teche Power Station,0.1731
+2021,2,Teche Power Station,0.196
+2021,3,Teche Power Station,0.2139
+2021,4,Teche Power Station,0.2168
+2020,2,Little Gypsy,0.1472
+2020,4,Little Gypsy,0.1917
+2021,1,Little Gypsy,0.2074
+2021,3,Little Gypsy,0.1898
+2020,4,Ninemile Point,0.1979
+2021,1,Ninemile Point,0.1966
+2021,2,Ninemile Point,0.1847
+2021,3,Ninemile Point,0.1774
+2020,3,Ninemile Point,0.2205
+2021,1,Ninemile Point,0.2138
+2021,3,Ninemile Point,0.1715
+2021,4,Ninemile Point,0.1679
+2021,2,Lieberman Power Plant,0.159
+2021,3,Lieberman Power Plant,0.1518
+2021,4,Lieberman Power Plant,0.1669
+2020,3,Houma,0.2228
+2021,3,Houma,0.2301
+2020,1,Houma,0.1477
+2020,1,Big Cajun 1,0.1443
+2020,2,West Springfield,0.1462
+2021,3,West Springfield,0.1923
+2020,3,West Springfield,0.1764
+2021,3,West Springfield,0.1655
+2020,1,Cleary Flood,0.1482
+2020,2,Cleary Flood,0.1396
+2020,3,Cleary Flood,0.1392
+2021,4,Watson Electric Generating Plant,0.1542
+2021,1,Baxter Wilson,0.2053
+2021,2,Baxter Wilson,0.2324
+2021,3,Baxter Wilson,0.2082
+2021,4,Baxter Wilson,0.2002
+2020,1,Moselle Generation Complex,0.1887
+2020,2,Moselle Generation Complex,0.227
+2020,3,Moselle Generation Complex,0.1969
+2021,2,Moselle Generation Complex,0.2246
+2021,3,Moselle Generation Complex,0.2205
+2021,4,Moselle Generation Complex,0.1808
+2021,2,Lake Road,0.173
+2021,3,Lake Road,0.1811
+2020,2,James River,0.1419
+2020,3,James River,0.1442
+2020,4,James River,0.1437
+2021,2,James River,0.1449
+2021,3,James River,0.1481
+2021,4,James River,0.1413
+2020,2,James River,0.1409
+2020,3,James River,0.1431
+2020,4,James River,0.1435
+2021,2,James River,0.1465
+2021,3,James River,0.146
+2020,1,Tracy,0.1562
+2020,2,Tracy,0.1521
+2020,3,Tracy,0.1496
+2020,4,Tracy,0.1518
+2021,1,Tracy,0.1535
+2021,2,Tracy,0.1534
+2021,3,Tracy,0.151
+2021,4,Tracy,0.1522
+2020,2,Sayreville,0.15
+2020,2,Sayreville,0.15
+2021,4,Sayreville,0.15
+2021,2,Gilbert Generating Station,0.2233
+2021,1,Bergen Generating Station,0.1555
+2020,1,Burlington Generating Station,0.2002
+2020,2,Burlington Generating Station,0.157
+2020,3,Burlington Generating Station,0.1419
+2020,4,Burlington Generating Station,0.1485
+2021,1,Burlington Generating Station,0.2135
+2021,2,Burlington Generating Station,0.138
+2021,4,Burlington Generating Station,0.2091
+2020,1,Burlington Generating Station,0.2254
+2020,2,Burlington Generating Station,0.1689
+2020,3,Burlington Generating Station,0.1455
+2021,1,Burlington Generating Station,0.2313
+2021,2,Burlington Generating Station,0.1385
+2020,2,Burlington Generating Station,0.1819
+2020,3,Burlington Generating Station,0.1562
+2020,4,Burlington Generating Station,0.1442
+2021,1,Burlington Generating Station,0.225
+2021,2,Burlington Generating Station,0.14
+2020,2,Burlington Generating Station,0.1875
+2020,3,Burlington Generating Station,0.1627
+2021,1,Burlington Generating Station,0.2251
+2021,2,Burlington Generating Station,0.1437
+2020,2,Kearny Generating Station,0.1756
+2020,4,Kearny Generating Station,0.1912
+2021,2,Kearny Generating Station,0.1385
+2021,4,Kearny Generating Station,0.1668
+2020,2,Kearny Generating Station,0.1868
+2020,3,Kearny Generating Station,0.1433
+2021,2,Kearny Generating Station,0.1389
+2020,1,Kearny Generating Station,0.2087
+2020,2,Kearny Generating Station,0.1522
+2020,4,Kearny Generating Station,0.181
+2021,4,Kearny Generating Station,0.1818
+2020,2,Kearny Generating Station,0.1847
+2020,3,Kearny Generating Station,0.1501
+2021,2,Kearny Generating Station,0.1425
+2020,2,Rio Grande,0.1447
+2020,1,Rio Grande,0.1928
+2020,2,Rio Grande,0.2143
+2020,3,Rio Grande,0.2016
+2020,4,Rio Grande,0.2012
+2021,1,Rio Grande,0.1993
+2021,2,Rio Grande,0.191
+2021,3,Rio Grande,0.1864
+2021,4,Rio Grande,0.2108
+2020,1,Maddox,0.1868
+2020,3,Maddox,0.1578
+2020,1,Reeves Generating Station,0.1755
+2020,2,Reeves Generating Station,0.2157
+2020,3,Reeves Generating Station,0.2171
+2020,4,Reeves Generating Station,0.2045
+2021,2,Reeves Generating Station,0.191
+2021,3,Reeves Generating Station,0.2087
+2021,4,Reeves Generating Station,0.1885
+2020,2,Reeves Generating Station,0.1758
+2020,3,Reeves Generating Station,0.1886
+2020,4,Reeves Generating Station,0.1882
+2021,1,Reeves Generating Station,0.1653
+2021,2,Reeves Generating Station,0.2089
+2021,3,Reeves Generating Station,0.2126
+2021,4,Reeves Generating Station,0.1894
+2020,1,Reeves Generating Station,0.1908
+2020,2,Reeves Generating Station,0.2149
+2020,3,Reeves Generating Station,0.2034
+2020,4,Reeves Generating Station,0.2073
+2021,1,Reeves Generating Station,0.1861
+2021,2,Reeves Generating Station,0.2234
+2021,3,Reeves Generating Station,0.2076
+2021,4,Reeves Generating Station,0.2204
+2020,1,Cunningham,0.1632
+2020,2,Cunningham,0.1692
+2020,3,Cunningham,0.1473
+2020,4,Cunningham,0.1598
+2021,1,Cunningham,0.1427
+2020,1,Cunningham,0.1445
+2020,2,Cunningham,0.1547
+2020,3,Cunningham,0.1587
+2020,4,Cunningham,0.1519
+2021,1,Cunningham,0.1381
+2020,4,Hillburn,0.155
+2021,2,Hillburn,0.2082
+2020,1,Shoemaker,0.226
+2020,2,Shoemaker,0.226
+2021,1,Shoemaker,0.226
+2020,2,S A Carlson,0.1381
+2021,1,S A Carlson,0.1393
+2021,4,S A Carlson,0.1507
+2020,1,R M Heskett,0.1581
+2020,2,R M Heskett,0.1544
+2020,4,R M Heskett,0.1582
+2021,3,R M Heskett,0.1513
+2021,1,Horseshoe Lake,0.1439
+2021,2,Horseshoe Lake,0.2189
+2021,3,Horseshoe Lake,0.2185
+2020,1,Horseshoe Lake,0.1862
+2020,2,Horseshoe Lake,0.1739
+2020,3,Horseshoe Lake,0.1689
+2020,4,Horseshoe Lake,0.1918
+2021,2,Horseshoe Lake,0.1587
+2021,3,Horseshoe Lake,0.144
+2020,1,Horseshoe Lake,0.1846
+2020,2,Horseshoe Lake,0.1717
+2020,3,Horseshoe Lake,0.1394
+2021,3,Horseshoe Lake,0.1441
+2021,1,Seminole (2956),0.1376
+2021,4,Seminole (2956),0.1474
+2020,3,Northeastern,0.1979
+2020,4,Northeastern,0.2103
+2021,2,Northeastern,0.1875
+2021,3,Northeastern,0.1836
+2021,4,Northeastern,0.2044
+2020,1,Southwestern,0.1798
+2020,2,Southwestern,0.1706
+2020,3,Southwestern,0.2039
+2020,4,Southwestern,0.198
+2021,1,Southwestern,0.221
+2021,2,Southwestern,0.1947
+2021,4,Southwestern,0.1983
+2020,2,Southwestern,0.2101
+2020,3,Southwestern,0.2082
+2020,4,Southwestern,0.2162
+2021,1,Southwestern,0.1767
+2021,2,Southwestern,0.2124
+2021,3,Southwestern,0.2117
+2021,4,Southwestern,0.1846
+2020,2,Southwestern,0.1848
+2021,1,Southwestern,0.1769
+2021,2,Southwestern,0.1893
+2021,4,Southwestern,0.1952
+2020,2,Southwestern,0.138
+2020,2,Southwestern,0.1981
+2020,3,Southwestern,0.1852
+2020,4,Southwestern,0.2097
+2021,2,Southwestern,0.1917
+2021,3,Southwestern,0.1746
+2021,4,Southwestern,0.1965
+2020,1,Tulsa,0.2086
+2020,2,Tulsa,0.1747
+2020,3,Tulsa,0.1903
+2021,1,Tulsa,0.2168
+2021,2,Tulsa,0.1734
+2021,3,Tulsa,0.1965
+2021,4,Tulsa,0.2265
+2020,1,Tulsa,0.2085
+2020,2,Tulsa,0.211
+2020,3,Tulsa,0.1899
+2020,4,Tulsa,0.1939
+2021,1,Tulsa,0.2019
+2021,2,Tulsa,0.1678
+2021,3,Tulsa,0.1716
+2021,4,Tulsa,0.1965
+2020,1,Aberdeen Generating Station,0.1984
+2020,4,Gallatin,0.1677
+2020,1,Mountain Creek Generating Station,0.1874
+2020,3,Mountain Creek Generating Station,0.1634
+2020,4,Mountain Creek Generating Station,0.1549
+2021,1,Mountain Creek Generating Station,0.142
+2021,2,Mountain Creek Generating Station,0.1748
+2021,3,Mountain Creek Generating Station,0.1502
+2021,4,Mountain Creek Generating Station,0.14
+2020,1,Newman Power Station,0.1799
+2020,2,Newman Power Station,0.2144
+2020,3,Newman Power Station,0.1911
+2020,4,Newman Power Station,0.1913
+2021,2,Newman Power Station,0.1901
+2021,3,Newman Power Station,0.1853
+2021,4,Newman Power Station,0.195
+2020,1,Newman Power Station,0.1604
+2020,2,Newman Power Station,0.1737
+2020,3,Newman Power Station,0.164
+2020,4,Newman Power Station,0.1961
+2021,1,Newman Power Station,0.1626
+2021,3,Newman Power Station,0.1781
+2020,2,Newman Power Station,0.1428
+2020,4,Newman Power Station,0.1618
+2021,1,Newman Power Station,0.1449
+2021,2,Newman Power Station,0.1554
+2021,3,Newman Power Station,0.1719
+2020,1,Newman Power Station,0.2025
+2020,2,Newman Power Station,0.1833
+2020,3,Newman Power Station,0.1781
+2020,4,Newman Power Station,0.2239
+2021,1,Newman Power Station,0.1983
+2021,2,Newman Power Station,0.144
+2021,4,Newman Power Station,0.1795
+2020,1,Newman Power Station,0.1437
+2020,2,Newman Power Station,0.1456
+2020,3,Newman Power Station,0.1503
+2020,4,Newman Power Station,0.1772
+2021,1,Newman Power Station,0.1751
+2021,2,Newman Power Station,0.1598
+2021,3,Newman Power Station,0.1463
+2021,4,Newman Power Station,0.1863
+2020,1,Sabine,0.1474
+2020,2,Sabine,0.159
+2020,3,Sabine,0.1469
+2020,4,Sabine,0.1493
+2021,3,Sabine,0.1464
+2021,4,Sabine,0.14
+2020,2,Sabine,0.1427
+2020,1,W A Parish,0.2048
+2020,2,W A Parish,0.162
+2020,3,W A Parish,0.1722
+2020,4,W A Parish,0.1552
+2021,1,W A Parish,0.1417
+2021,2,W A Parish,0.1873
+2021,3,W A Parish,0.1922
+2021,4,W A Parish,0.1932
+2020,2,W A Parish,0.2216
+2020,3,W A Parish,0.217
+2020,4,W A Parish,0.1525
+2021,1,W A Parish,0.1652
+2021,2,W A Parish,0.1813
+2021,3,W A Parish,0.1604
+2021,4,W A Parish,0.1547
+2021,1,W A Parish,0.1834
+2021,2,W A Parish,0.1699
+2020,1,Wilkes Power Plant,0.1525
+2020,2,Wilkes Power Plant,0.1396
+2020,4,Wilkes Power Plant,0.1514
+2021,1,Wilkes Power Plant,0.1557
+2021,2,Wilkes Power Plant,0.1542
+2021,3,Wilkes Power Plant,0.1393
+2021,4,Wilkes Power Plant,0.1607
+2021,1,Wilkes Power Plant,0.1468
+2020,1,Jones Station,0.144
+2020,2,Nichols Station,0.1439
+2021,4,Nichols Station,0.1403
+2020,1,Plant X,0.1527
+2020,1,Graham,0.1874
+2020,2,Graham,0.1919
+2020,3,Graham,0.2129
+2020,4,Graham,0.2033
+2021,2,Graham,0.2162
+2021,3,Graham,0.1991
+2020,1,Graham,0.2083
+2020,3,Graham,0.1608
+2020,4,Graham,0.1659
+2021,2,Graham,0.162
+2021,3,Graham,0.156
+2021,1,Stryker Creek,0.2288
+2021,2,Stryker Creek,0.1358
+2021,4,Stryker Creek,0.2039
+2020,3,Trinidad,0.149
+2020,4,Trinidad,0.1399
+2021,1,Trinidad,0.2109
+2021,2,Trinidad,0.1501
+2021,3,Trinidad,0.157
+2021,4,Trinidad,0.1973
+2020,2,Decker Creek,0.1408
+2020,3,Decker Creek,0.1455
+2020,1,Sim Gideon,0.1393
+2020,1,Sim Gideon,0.1403
+2021,1,Sim Gideon,0.1421
+2021,4,Sim Gideon,0.1496
+2021,1,Sim Gideon,0.1493
+2020,3,O W Sommers,0.1514
+2020,4,O W Sommers,0.1552
+2021,1,O W Sommers,0.148
+2021,2,O W Sommers,0.1392
+2021,3,O W Sommers,0.1419
+2021,1,O W Sommers,0.1486
+2020,3,V H Braunig,0.1642
+2020,4,V H Braunig,0.1449
+2021,1,V H Braunig,0.2221
+2021,2,V H Braunig,0.1992
+2021,3,V H Braunig,0.1695
+2021,4,V H Braunig,0.1764
+2020,4,V H Braunig,0.1399
+2021,1,V H Braunig,0.2113
+2021,2,V H Braunig,0.1475
+2020,1,R W Miller,0.1408
+2020,3,R W Miller,0.1988
+2021,2,R W Miller,0.1937
+2021,3,R W Miller,0.1777
+2020,4,Chesterfield Power Station,0.1453
+2021,1,Chesterfield Power Station,0.1399
+2021,3,Blount Street,0.2253
+2021,4,Blount Street,0.2324
+2020,1,West Marinette,0.2182
+2021,2,West Marinette,0.2328
+2020,2,West Marinette,0.1395
+2021,2,Power Lane Steam Plant,0.1645
+2020,3,Riverside (4940),0.1942
+2020,4,Riverside (4940),0.214
+2021,2,Riverside (4940),0.2133
+2021,3,Riverside (4940),0.2318
+2021,4,Riverside (4940),0.2204
+2020,4,Riverside (4940),0.2203
+2021,2,Cumberland Energy Center,0.1405
+2020,1,A B Brown Generating Station,0.1402
+2020,2,A B Brown Generating Station,0.1402
+2021,2,A B Brown Generating Station,0.1422
+2021,3,A B Brown Generating Station,0.1381
+2021,4,A B Brown Generating Station,0.139
+2020,1,Brame Energy Center,0.1948
+2020,2,Brame Energy Center,0.1886
+2020,3,Brame Energy Center,0.1718
+2020,4,Brame Energy Center,0.1973
+2021,2,Brame Energy Center,0.1841
+2021,3,Brame Energy Center,0.1679
+2021,4,Brame Energy Center,0.1898
+2021,1,John Twitty Energy Center,0.1467
+2021,2,John Twitty Energy Center,0.1755
+2021,3,John Twitty Energy Center,0.1726
+2021,4,John Twitty Energy Center,0.1693
+2021,1,John Twitty Energy Center,0.138
+2021,2,John Twitty Energy Center,0.1511
+2021,3,John Twitty Energy Center,0.1482
+2021,4,John Twitty Energy Center,0.149
+2020,1,John Twitty Energy Center,0.1355
+2020,3,John Twitty Energy Center,0.145
+2020,4,John Twitty Energy Center,0.1617
+2021,2,John Twitty Energy Center,0.1719
+2021,3,John Twitty Energy Center,0.1564
+2021,4,John Twitty Energy Center,0.1444
+2020,4,John Twitty Energy Center,0.1527
+2021,2,John Twitty Energy Center,0.1542
+2021,3,John Twitty Energy Center,0.1569
+2021,4,John Twitty Energy Center,0.1535
+2020,2,Empire District Elec Co Energy Ctr,0.1464
+2020,3,Empire District Elec Co Energy Ctr,0.1479
+2020,4,Empire District Elec Co Energy Ctr,0.1505
+2021,3,Empire District Elec Co Energy Ctr,0.1455
+2021,2,Empire District Elec Co Energy Ctr,0.139
+2021,3,Empire District Elec Co Energy Ctr,0.1381
+2020,3,Rokeby,0.2195
+2021,2,Rokeby,0.2131
+2021,1,Rawhide Energy Station,0.203
+2020,1,McIntosh (7063),0.1818
+2020,1,Pleasant Hill Energy Center,0.201
+2020,3,Pleasant Hill Energy Center,0.1718
+2020,4,Pleasant Hill Energy Center,0.1839
+2021,2,Pleasant Hill Energy Center,0.167
+2021,3,Pleasant Hill Energy Center,0.1603
+2020,4,Woodsdale,0.1357
+2021,3,Woodsdale,0.1359
+2020,1,Woodsdale,0.1603
+2020,2,Woodsdale,0.1416
+2020,3,Woodsdale,0.1435
+2020,4,Woodsdale,0.1462
+2021,3,Woodsdale,0.1466
+2020,1,Woodsdale,0.145
+2021,4,Polk,0.1422
+2020,1,48th Street Peaking Station,0.149
+2020,4,48th Street Peaking Station,0.1443
+2021,1,48th Street Peaking Station,0.1439
+2020,3,Redding Power Plant,0.0039
+2020,4,Redding Power Plant,0.004
+2021,3,Redding Power Plant,0.0028
+2021,4,Redding Power Plant,0.0032
+2021,3,Redding Power Plant,0.0026
+2021,4,Redding Power Plant,0.0032
+2020,3,Richmond (IN),0.1381
+2020,2,Anderson,0.1441
+2021,2,Anderson,0.1433
+2021,3,Anderson,0.1434
+2020,3,Interstate,0.1577
+2020,1,McPherson Municipal Power Plant #3,0.1874
+2020,2,McPherson Municipal Power Plant #3,0.1855
+2020,4,McPherson Municipal Power Plant #3,0.1649
+2021,2,McPherson Municipal Power Plant #3,0.1649
+2021,3,McPherson Municipal Power Plant #3,0.165
+2020,1,Chouteau Power Plant,0.0032
+2020,2,Chouteau Power Plant,0.0034
+2020,3,Chouteau Power Plant,0.004
+2020,1,Chouteau Power Plant,0.0037
+2020,2,Chouteau Power Plant,0.004
+2020,3,Chouteau Power Plant,0.0038
+2020,2,MPC Generating,0.1945
+2020,4,Sowega Power Project,0.1507
+2021,2,Minnesota River Station,0.198
+2020,3,MEPI GT Facility,0.1357
+2021,2,Robert P Mone,0.1813
+2020,2,Robert P Mone,0.2155
+2021,2,Robert P Mone,0.1749
+2021,3,Robert P Mone,0.1917
+2021,2,Bayside Power Station,0.1839
+2021,1,Sand Hill Energy Center,0.1654
+2021,1,Sand Hill Energy Center,0.1664
+2020,1,McCartney Generating Station,0.1567
+2020,2,McCartney Generating Station,0.1638
+2020,3,McCartney Generating Station,0.1554
+2020,4,McCartney Generating Station,0.1495
+2021,1,McCartney Generating Station,0.1515
+2020,1,McCartney Generating Station,0.1481
+2020,2,McCartney Generating Station,0.1552
+2020,3,McCartney Generating Station,0.1486
+2020,4,McCartney Generating Station,0.1482
+2021,1,McCartney Generating Station,0.1503
+2021,4,McCartney Generating Station,0.1396
+2020,2,McCartney Generating Station,0.1403
+2020,2,McCartney Generating Station,0.1358
+2020,1,Solway Plant,0.1489
+2020,2,Solway Plant,0.1505
+2020,4,Solway Plant,0.1404
+2021,1,Solway Plant,0.1454
+2021,2,Solway Plant,0.1408
+2021,3,Solway Plant,0.1392
+2021,4,Solway Plant,0.1706
+2021,2,Lordsburg Generating Station,0.1537
+2020,4,Lordsburg Generating Station,0.1377
+2021,1,Lordsburg Generating Station,0.1387
+2021,2,Lordsburg Generating Station,0.1443
+2020,2,Pyramid Generating Station,0.1429
+2020,2,Pyramid Generating Station,0.1423
+2020,4,Pyramid Generating Station,0.1487
+2021,2,Pyramid Generating Station,0.1525
+2021,4,Pyramid Generating Station,0.1547
+2020,2,Pyramid Generating Station,0.1398
+2020,4,Pyramid Generating Station,0.1562
+2021,4,Pyramid Generating Station,0.1582
+2020,2,Pyramid Generating Station,0.1416
+2021,3,Pyramid Generating Station,0.1423
+2021,4,Pyramid Generating Station,0.1831
+2021,2,Gerald Andrus,0.2311
+2020,2,Waterford 1 & 2,0.1507
+2021,1,Waterford 1 & 2,0.1516
+2020,2,Waterford 1 & 2,0.1521
+2021,4,Comanche (8059),0.1404
+2020,4,Carson Cogeneration Company,0.2267
+2021,3,Carson Cogeneration Company,0.2214
+2020,1,Yuba City Energy Center,0.2205
+2020,2,Yuba City Energy Center,0.1812
+2020,3,Yuba City Energy Center,0.157
+2020,4,Yuba City Energy Center,0.2076
+2021,1,Yuba City Energy Center,0.2086
+2020,2,Carthage Energy,0.14
+2020,4,Carthage Energy,0.1633
+2021,2,Carthage Energy,0.2332
+2020,1,"Syracuse, LLC",0.1979
+2020,4,"Syracuse, LLC",0.1696
+2021,2,"Syracuse, LLC",0.144
+2021,1,Badger Creek Limited,0.2233
+2020,2,Paris Energy Center,0.1701
+2020,2,Bethpage Energy Center,0.151
+2020,1,Newark Bay Cogen,0.1423
+2020,1,Newark Bay Cogen,0.1393
+2021,1,Indeck-Oswego Energy Center,0.1389
+2021,4,Indeck-Oswego Energy Center,0.1529
+2020,1,Indeck-Yerkes Energy Center,0.1538
+2020,2,Indeck-Yerkes Energy Center,0.1703
+2020,3,Indeck-Yerkes Energy Center,0.1603
+2020,4,Indeck-Yerkes Energy Center,0.1575
+2021,1,Indeck-Yerkes Energy Center,0.1986
+2021,2,Indeck-Yerkes Energy Center,0.175
+2021,3,Indeck-Yerkes Energy Center,0.1591
+2021,4,Indeck-Yerkes Energy Center,0.1685
+2020,2,Sterling Power Plant,0.1656
+2020,4,Sterling Power Plant,0.1731
+2020,1,Nassau Energy Corporation,0.1421
+2021,2,Nassau Energy Corporation,0.1387
+2021,3,Nassau Energy Corporation,0.1428
+2021,4,Nassau Energy Corporation,0.1441
+2021,1,Texas City Cogeneration,0.1604
+2021,2,Texas City Cogeneration,0.1398
+2021,1,C. R. Wing Cogeneration Plant,0.1742
+2020,1,C. R. Wing Cogeneration Plant,0.1412
+2021,1,C. R. Wing Cogeneration Plant,0.1549
+2020,4,Lockport,0.1548
+2020,4,Lockport,0.2174
+2021,1,Lockport,0.1495
+2020,1,Lockport,0.1458
+2021,4,"World Generation X, LLC",0.1506
+2020,1,Massena Energy Facility,0.1704
+2021,1,Massena Energy Facility,0.1422
+2020,2,Batavia Energy,0.1392
+2020,3,Batavia Energy,0.1529
+2020,4,Batavia Energy,0.1923
+2021,2,Batavia Energy,0.1481
+2021,1,Sun Peak Generating Station,0.1358
+2021,2,Sun Peak Generating Station,0.1403
+2021,3,Sun Peak Generating Station,0.1402
+2021,3,Sun Peak Generating Station,0.1393
+2021,4,Sun Peak Generating Station,0.1357
+2021,1,Mid-Georgia Cogeneration,0.1814
+2021,1,Mid-Georgia Cogeneration,0.1393
+2021,2,Tenaska Georgia Generating Station,0.184
+2020,2,Tenaska Georgia Generating Station,0.164
+2020,1,Livingston Generating Station,0.222
+2020,4,Livingston Generating Station,0.2258
+2021,1,Livingston Generating Station,0.226
+2021,3,"Rocky Road Power, LLC",0.1396
+2021,4,"Rocky Road Power, LLC",0.1393
+2021,2,Nelson Energy Center,0.1377
+2021,1,Elwood Energy Facility,0.1478
+2021,1,Valmont Combustion Turbine Facility,0.1614
+2020,4,Valmont Combustion Turbine Facility,0.173
+2021,1,Valmont Combustion Turbine Facility,0.199
+2020,4,Oswald Generating Station,0.1993
+2021,1,Oswald Generating Station,0.1694
+2021,4,Oswald Generating Station,0.1896
+2020,1,Oswald Generating Station,0.2158
+2020,2,Oswald Generating Station,0.1972
+2020,3,Oswald Generating Station,0.2117
+2020,4,Oswald Generating Station,0.1604
+2021,2,Oswald Generating Station,0.1962
+2021,3,Oswald Generating Station,0.1925
+2021,4,Oswald Generating Station,0.1466
+2020,1,Oswald Generating Station,0.2177
+2020,2,Oswald Generating Station,0.1964
+2020,3,Oswald Generating Station,0.215
+2020,4,Oswald Generating Station,0.1644
+2021,1,Oswald Generating Station,0.138
+2021,2,Oswald Generating Station,0.1996
+2021,3,Oswald Generating Station,0.1977
+2021,4,Oswald Generating Station,0.1655
+2020,1,Oswald Generating Station,0.2202
+2020,2,Oswald Generating Station,0.1945
+2020,3,Oswald Generating Station,0.2114
+2020,4,Oswald Generating Station,0.1586
+2021,1,Oswald Generating Station,0.1778
+2021,2,Oswald Generating Station,0.2046
+2021,3,Oswald Generating Station,0.201
+2021,4,Oswald Generating Station,0.1611
+2020,1,Oswald Generating Station,0.2196
+2020,2,Oswald Generating Station,0.1984
+2020,3,Oswald Generating Station,0.205
+2020,4,Oswald Generating Station,0.1519
+2021,1,Oswald Generating Station,0.1769
+2021,2,Oswald Generating Station,0.19
+2021,3,Oswald Generating Station,0.2004
+2021,4,Oswald Generating Station,0.1599
+2020,1,Oswald Generating Station,0.2086
+2020,2,Oswald Generating Station,0.1978
+2020,3,Oswald Generating Station,0.2013
+2020,4,Oswald Generating Station,0.1659
+2021,1,Oswald Generating Station,0.1714
+2021,2,Oswald Generating Station,0.1971
+2021,3,Oswald Generating Station,0.2005
+2021,4,Oswald Generating Station,0.1692
+2020,1,Oswald Generating Station,0.172
+2020,3,Oswald Generating Station,0.1549
+2021,2,Oswald Generating Station,0.1525
+2021,3,Oswald Generating Station,0.1474
+2020,1,Wheatland Generating Facility LLC,0.1884
+2020,2,Wheatland Generating Facility LLC,0.1643
+2020,3,Wheatland Generating Facility LLC,0.1662
+2021,1,Wheatland Generating Facility LLC,0.1867
+2021,2,Wheatland Generating Facility LLC,0.17
+2021,3,Wheatland Generating Facility LLC,0.163
+2021,4,Wheatland Generating Facility LLC,0.2006
+2020,1,Wheatland Generating Facility LLC,0.1838
+2020,2,Wheatland Generating Facility LLC,0.156
+2020,3,Wheatland Generating Facility LLC,0.167
+2020,4,Wheatland Generating Facility LLC,0.232
+2021,1,Wheatland Generating Facility LLC,0.1666
+2021,2,Wheatland Generating Facility LLC,0.1619
+2021,3,Wheatland Generating Facility LLC,0.16
+2021,4,Wheatland Generating Facility LLC,0.162
+2020,1,Wheatland Generating Facility LLC,0.2256
+2020,2,Wheatland Generating Facility LLC,0.1733
+2020,3,Wheatland Generating Facility LLC,0.1743
+2021,1,Wheatland Generating Facility LLC,0.1899
+2021,2,Wheatland Generating Facility LLC,0.1851
+2021,3,Wheatland Generating Facility LLC,0.1815
+2021,4,Wheatland Generating Facility LLC,0.2037
+2020,1,Wheatland Generating Facility LLC,0.154
+2020,3,Wheatland Generating Facility LLC,0.1623
+2020,4,Wheatland Generating Facility LLC,0.2144
+2021,1,Wheatland Generating Facility LLC,0.1587
+2021,2,Wheatland Generating Facility LLC,0.1428
+2021,4,Wheatland Generating Facility LLC,0.1522
+2021,1,Rockford Energy Center,0.1606
+2021,1,Doyle Energy Facility,0.1429
+2021,3,Darby Electric Generating Station,0.2028
+2021,3,AMP-Ohio Gas Turbines Bowling Green,0.15
+2021,1,Tenaska Lindsay Hill Generating Station,0.1383
+2020,4,Aurora,0.1478
+2021,1,Baconton Power,0.156
+2020,1,Baconton Power,0.1547
+2020,1,Washington County Power,0.1435
+2020,4,Athens Generating Company,0.172
+2020,1,Calhoun Generating Facility,0.156
+2020,1,Calhoun Generating Facility,0.17
+2020,2,Columbia Energy Center (MO),0.1381
+2020,1,Fountain Valley Power Plant,0.1632
+2021,1,Fountain Valley Power Plant,0.1448
+2021,2,Fountain Valley Power Plant,0.1476
+2021,3,Fountain Valley Power Plant,0.1383
+2020,1,Fountain Valley Power Plant,0.1441
+2020,1,Fountain Valley Power Plant,0.1524
+2020,4,Fountain Valley Power Plant,0.1379
+2021,1,Fountain Valley Power Plant,0.1503
+2021,2,Fountain Valley Power Plant,0.1553
+2021,3,Fountain Valley Power Plant,0.1407
+2020,1,Fountain Valley Power Plant,0.1407
+2020,1,Fountain Valley Power Plant,0.1397
+2020,1,Fountain Valley Power Plant,0.149
+2021,4,Fountain Valley Power Plant,0.1392
+2021,2,Chula Vista Energy Center,0.1592
+2021,2,Chula Vista Energy Center,0.1592
+2021,2,West Valley Power Plant,0.1992
+2021,2,West Valley Power Plant,0.1981
+2021,2,West Valley Power Plant,0.1607
+2020,3,Bethlehem Power Plant,0.004
+2020,3,Bethlehem Power Plant,0.0041
+2020,3,Bethlehem Power Plant,0.0042
+2021,1,Magnet Cove Generating Station,0.22
+2021,2,Feather River Energy Center,0.1927
+2021,3,Feather River Energy Center,0.1805
+2020,3,Cosumnes Power Plant,0.0042
+2020,3,Hunterstown Combined Cycle,0.0031
+2021,3,Hunterstown Combined Cycle,0.0034
+2021,4,Hunterstown Combined Cycle,0.0042
+2020,1,Hunterstown Combined Cycle,0.0036
+2020,2,Hunterstown Combined Cycle,0.0034
+2020,3,Hunterstown Combined Cycle,0.0033
+2021,1,Hunterstown Combined Cycle,0.0033
+2021,3,Hunterstown Combined Cycle,0.004
+2021,4,Hunterstown Combined Cycle,0.0042
+2020,1,South Harper Peaking Facility,0.196
+2021,1,Millcreek Power,0.141
+2020,4,Harry D. Mattison Power Plant,0.1411
+2021,2,Harry D. Mattison Power Plant,0.145
+2021,4,Harry D. Mattison Power Plant,0.182
+2020,3,Harry D. Mattison Power Plant,0.1929
+2021,2,Harry D. Mattison Power Plant,0.202
+2021,2,Quail Run Energy Center,0.1669
+2021,4,Grapeland Generating Station,0.1511
+2020,4,Colusa Generating Station,0.0043
+2021,3,Colusa Generating Station,0.0041
+2020,4,Colusa Generating Station,0.0039
+2020,2,Paducah Power Systems Plant 1,0.1641
+2020,4,Paducah Power Systems Plant 1,0.157
+2021,4,Paducah Power Systems Plant 1,0.1439
+2020,2,Paducah Power Systems Plant 1,0.2197
+2020,4,Paducah Power Systems Plant 1,0.1412
+2021,1,Paducah Power Systems Plant 1,0.2249
+2020,1,Paducah Power Systems Plant 1,0.152
+2020,4,Paducah Power Systems Plant 1,0.1758
+2021,2,Paducah Power Systems Plant 1,0.1663
+2020,3,Paducah Power Systems Plant 1,0.1625
+2021,3,Paducah Power Systems Plant 1,0.1459
+2020,4,CPV St. Charles Energy Center,0.0043
+2021,2,Pueblo Airport Generating Station,0.0037
+2020,3,Pueblo Airport Generating Station,0.0035
+2021,1,Pueblo Airport Generating Station,0.0028
+2021,2,Pueblo Airport Generating Station,0.0042
+2021,3,Pueblo Airport Generating Station,0.0042
+2021,1,Pueblo Airport Generating Station,0.0035
+2021,2,Pueblo Airport Generating Station,0.0037
+2020,3,Pueblo Airport Generating Station,0.0036
+2020,4,Pueblo Airport Generating Station,0.0031
+2021,1,Pueblo Airport Generating Station,0.0016
+2021,2,Pueblo Airport Generating Station,0.0031
+2021,3,Alpine Power Plant,0.1427
+2020,1,Colorado Bend II,0.0043
+2021,3,Colorado Bend II,0.0042
+2021,3,Colorado Bend II,0.0042
+2021,1,Bacliff Generating Station,0.1515
+2021,4,Bacliff Generating Station,0.1804
+2021,1,"Chamon Power, LLC",0.2191
+2021,1,"Chamon Power, LLC",0.1949
+2021,1,Victoria City Peaking Facility,0.1645
+2021,3,Hill Top Energy Center,0.0037
+2021,4,Hill Top Energy Center,0.0039
+2021,4,Delta Energy Park,0.228
+2021,4,Delta Energy Park,0.193
+2021,1,HO Clarke Generating,0.2162
